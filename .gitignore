@@ -1,2 +1,12 @@
+# Ignore virtual environment folders
 .venv/
 venv/
+
+# Data files - too large for GitHub
+data/*.csv
+data/*.npy
+
+# Model scalers
+models/*.pkl
+models/*.pt
+models/*.pth
