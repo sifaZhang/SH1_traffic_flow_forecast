@@ -2,11 +2,6 @@
 
 # Auckland State Highway 1 (SH1) Short-term traffic flow frecast
 
-# Student Information
-
-Sifa Zhang (Student ID: 1606796)
-Sai Pan (Student ID: 1613501)
-
 # Dataset
 
 ## Data Name
